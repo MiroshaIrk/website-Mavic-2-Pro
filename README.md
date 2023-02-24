@@ -4,6 +4,6 @@
 
 - Верстка HTML, CSS.
 - Адаптирован под все экраны.
-- Используется библиотека [jQuery](https://github.com/jquery/jquery). Для управления меню, слайдером, аккардеоном и полноэкранной прокруткой.
+- Используется библиотека [jQuery](https://github.com/jquery/jquery). Реализован функционал управления меню, слайдером, аккардеоном и полноэкранной прокруткой.
 - Библиатека [Slick slider](https://kenwheeler.github.io/slick/) для работы слайдера.
 - Библиотека [Full pages](https://alvarotrigo.com/fullPage/ru/) для создания веб-сайтов с полноэкранной прокруткой, а также позволяет добавлять горизонтальные ползунки для разделов сайта. [Документация](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/russian#fullpagejs).
